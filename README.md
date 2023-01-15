@@ -4,12 +4,12 @@ I work as a fullstack developer in FKU Nalog-Service FNS of Russia
 
 Glad to see 🔭
 
-As a developer I worked only two years, before it I worked in Marketing and Sales at International companies as Henkel, Rockwool, Otis, Mirka, AB Inbev
+As a developer I worked only two years, before it I worked in Marketing and Sales at International companies as Henkel, Rockwool, Otis, Mirka, AB Inbev.
 Now I am working on the one big commercial project, it is a corporate portal with a different servises as News, Telephone book, Travel Booking etc...
 
 My actually stack is a front-end, but a little bit I know also in back-end. 
 
-Bellow you can see my some projects without NDA
+Bellow you can see my some of my projects without NDA
 
 https://vercel-reutov-9a12-g2itxkdux-kan88.vercel.app/ <br>
 https://cute-crostata-7f802d.netlify.app/ <br>
@@ -25,7 +25,7 @@ Also I’m currently learning React enviroment in Yandex Practicum(Middle front-
 My telegramm account @kan_1988
 My email msk9199625687@yandex.ru
 
-Good luck and be happy 😄
+Good luck and be strong 😄
 
 
 <!--
