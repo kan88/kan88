@@ -22,7 +22,7 @@ https://kiselka-travel-f45hxco7c-kan88.vercel.app/ <br>
 If you want to know about my Education in IT I can show you my sertificates from HTML Academy(CSS, HTML, JS)
 Also I’m currently learning React enviroment in Yandex Practicum(Middle front-end developer)
 
-My telegramm account @kan_1988
+My telegramm account @kan_1988 <br>
 My email msk9199625687@yandex.ru
 
 Good luck and be strong 😄
