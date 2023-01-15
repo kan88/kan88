@@ -2,7 +2,7 @@
 I am Evgeny from Moscow
 I work as a fullstack developer in FKU Nalog-Service FNS of Russia
 
-Glad to see you in my profile
+Glad to see 🔭
 
 As a developer I worked only two years, before it I worked in Marketing and Sales at International companies as Henkel, Rockwool, Otis, Mirka, AB Inbev
 Now I am working on the one big commercial project, it is a corporate portal with a different servises as News, Telephone book, Travel Booking etc...
