@@ -11,7 +11,7 @@ My actually stack is a front-end, but a little bit I know also in back-end.
 
 Bellow you can see my some projects without NDA
 
-https://vercel-reutov-9a12-g2itxkdux-kan88.vercel.app/ \n
+https://vercel-reutov-9a12-g2itxkdux-kan88.vercel.app/ <br>
 https://mishka-seven.vercel.app/
 https://2015167-sedona-33.vercel.app/
 https://vercel-woodyandcash.vercel.app/
