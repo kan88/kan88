@@ -12,10 +12,10 @@ My actually stack is a front-end, but a little bit I know also in back-end.
 Bellow you can see my some projects without NDA
 
 https://vercel-reutov-9a12-g2itxkdux-kan88.vercel.app/ <br>
-https://mishka-seven.vercel.app/
-https://2015167-sedona-33.vercel.app/
-https://vercel-woodyandcash.vercel.app/
-https://kiselka-travel-f45hxco7c-kan88.vercel.app/
+https://mishka-seven.vercel.app/ <br>
+https://2015167-sedona-33.vercel.app/ <br>
+https://vercel-woodyandcash.vercel.app/ <br>
+https://kiselka-travel-f45hxco7c-kan88.vercel.app/ <br>
 
 If you want to know about my Education in IT I can show you my sertificates from HTML Academy(CSS, HTML, JS)
 Also I’m currently learning React enviroment in Yandex Practicum(Middle front-end developer)
