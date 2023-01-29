@@ -18,6 +18,7 @@ https://mishka-seven.vercel.app/ <br>
 https://2015167-sedona-33.vercel.app/ <br>
 https://vercel-woodyandcash.vercel.app/ <br>
 https://kiselka-travel-f45hxco7c-kan88.vercel.app/ <br>
+https://deploy-pizza.vercel.app/ <br>
 
 If you want to know about my Education in IT I can show you my sertificates from HTML Academy(CSS, HTML, JS)<br>
 Also I’m currently learning React enviroment in Yandex Practicum(Middle front-end developer)
