@@ -20,6 +20,7 @@ https://vercel-woodyandcash.vercel.app/ <br>
 https://kiselka-travel-f45hxco7c-kan88.vercel.app/ <br>
 https://deploy-pizza.vercel.app/ <br>
 https://axios-types.vercel.app/ <br>
+https://gallery-rtk.vercel.app/ <br>
 
 If you want to know about my Education in IT I can show you my sertificates from HTML Academy(CSS, HTML, JS)<br>
 Also I’m currently learning React enviroment in Yandex Practicum(Middle front-end developer)
