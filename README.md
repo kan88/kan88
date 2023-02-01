@@ -18,6 +18,8 @@ https://axios-types.vercel.app/ <br>
 https://gallery-rtk.vercel.app/ <br>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kan88)](https://github.com/kan88/github-readme-stats)
+
 My actual contacts <br>
 <a href="https://t.me/kan_1988" rel="nofollow">
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -47,4 +49,5 @@ My hard skills 😄 <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
