@@ -1,4 +1,3 @@
- ![Profile View Counter](https://komarev.com/ghpvc/?username=kan88)
 ### Hi there 👋
 I am Evgeny from Moscow
 I work as a fullstack developer
@@ -52,5 +51,6 @@ My hard skills 😄 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kan88&layout=compact)](https://github.com/kan88)
-
+<br>
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=kan88)
 
