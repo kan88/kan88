@@ -23,17 +23,17 @@ https://axios-types.vercel.app/ <br>
 https://gallery-rtk.vercel.app/ <br>
 
 If you want to know about my Education in IT I can show you my sertificates from HTML Academy(CSS, HTML, JS)<br>
-Also I’m currently learning React enviroment in Yandex Practicum(Middle front-end developer)
+Also I’m currently learning React enviroment in Yandex Practicum(Middle front-end developer) <br>
 <a href="https://t.me/kan_1988" rel="nofollow">
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 </a>
-
+<a href="mailto:evgenijkan1988@gmail.com">
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-My telegramm account @kan_1988 <br>
-My email msk9199625687@yandex.ru
 
-Good luck and be strong 😄
+
+My hard skills 😄 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
