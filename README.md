@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Evgeny from Moscow
-I work as a fullstack developer in FKU Nalog-Service FNS of Russia
+I work as a fullstack developer
 
 Glad to see you🔭
 
