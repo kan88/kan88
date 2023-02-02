@@ -17,7 +17,8 @@ https://deploy-pizza.vercel.app/ <br>
 https://axios-types.vercel.app/ <br>
 https://gallery-rtk.vercel.app/ <br>
 <br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kan88&layout=compact)](https://github.com/kan88)
+<br>
 
 
 My actual contacts <br>
@@ -50,7 +51,6 @@ My hard skills 😄 <br>
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kan88&layout=compact)](https://github.com/kan88)
-<br>
+
  ![Profile View Counter](https://komarev.com/ghpvc/?username=kan88)
 
