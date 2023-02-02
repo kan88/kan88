@@ -1,4 +1,4 @@
-<h2>KAN<h2>
+<h2 style="color:blue">KAN<h2>
 
 ### Hi there 👋
 I am Evgeny from Moscow
