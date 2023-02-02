@@ -1,4 +1,4 @@
-<h2 style="color:blue">KAN<h2>
+<span style="color:blue">some *blue* text</span>.
 
 ### Hi there 👋
 I am Evgeny from Moscow
