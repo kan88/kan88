@@ -1,12 +1,10 @@
-<span style="color:blue">some *blue* text</span>.
-
 ### Hi there 👋
 I am Evgeny from Moscow
 I work as a fullstack developer
 
 Glad to see you🔭
 
-Bellow you can see my some of my commercial and pet projects without NDA
+Bellow you can see some of my commercial and pet projects without NDA
 
 https://vercel-reutov-9a12-g2itxkdux-kan88.vercel.app/ <br>
 https://cute-crostata-7f802d.netlify.app/ <br>
