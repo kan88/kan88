@@ -16,7 +16,7 @@ https://kiselka-travel-f45hxco7c-kan88.vercel.app/ <br>
 https://deploy-pizza.vercel.app/ <br>
 https://axios-types.vercel.app/ <br>
 https://gallery-rtk.vercel.app/ <br>
-react-hooks-taupe-seven.vercel.app/ <br>
+https://react-hooks-taupe-seven.vercel.app/ <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kan88&layout=compact)](https://github.com/kan88)
 <br>
