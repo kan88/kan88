@@ -2,10 +2,6 @@
 I am Evgeny from Moscow
 I work as a fullstack developer
 
-Glad to see you🔭
-
-Bellow you can see some of my commercial and pet projects without NDA
-
 https://mishka-seven.vercel.app/ <br>
 https://2015167-sedona-33.vercel.app/ <br>
 https://kan88.github.io/skyeng/ <br>
