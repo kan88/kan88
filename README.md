@@ -3,6 +3,7 @@ I am Evgeny from Moscow <br>
 I work as a fullstack developer
 
 Some of my projects <br>
+https://aleksandr-86.github.io/canvas-bomberman/game/ <br>
 https://mishka-seven.vercel.app/ <br>
 https://2015167-sedona-33.vercel.app/ <br>
 https://kan88.github.io/skyeng/ <br>
