@@ -5,7 +5,7 @@ https://deploy-react-pizza.vercel.app/<br>
 https://todo-eight-inky.vercel.app/ <br><br>
 Command project: React + Redux Toolkit + Typescript <br>
 https://aleksandr-86.github.io/canvas-bomberman/game/ <br><br>
-HBS + Websockets<br>
+Class block as React/HBS + Websockets + 1/2Typescript<br>
 https://cute-crostata-7f802d.netlify.app/ <br><br>
 JS + SCSS<br>
 https://2015167-sedona-33.vercel.app/ <br>
