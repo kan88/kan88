@@ -11,6 +11,10 @@ React Testing Library<br>
 https://github.com/kan88/react-testing-library <br>
 Express + Mongo DB<br>
 https://github.com/kan88/deploy-mongo-express <br>
+Sandboxes React + Redux Toolkit<br>
+https://axios-types.vercel.app/ <br>
+https://gallery-rtk.vercel.app/ <br>
+https://react-hooks-taupe-seven.vercel.app/ <br>
 JS + SCSS<br>
 https://mishka-kan88.vercel.app/ <br>
 https://2015167-sedona-33.vercel.app/ <br>
@@ -19,10 +23,7 @@ https://vercel-woodyandcash.vercel.app/ <br>
 https://kiselka-travel-f45hxco7c-kan88.vercel.app/ <br>
 https://deploy-pizza.vercel.app/ <br>
 https://vercel-reutov-9a12-g2itxkdux-kan88.vercel.app/ <br>
-Sandboxes React + Redux Toolkit<br>
-https://axios-types.vercel.app/ <br>
-https://gallery-rtk.vercel.app/ <br>
-https://react-hooks-taupe-seven.vercel.app/ <br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kan88&layout=compact)](https://github.com/kan88)
 
