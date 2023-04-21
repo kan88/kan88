@@ -24,9 +24,8 @@ https://axios-types.vercel.app/ <br>
 https://gallery-rtk.vercel.app/ <br>
 https://react-hooks-taupe-seven.vercel.app/ <br>
 
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kan88&layout=compact)](https://github.com/kan88)
-<br>
+
 
 
 My actual contacts <br>
