@@ -7,14 +7,14 @@ Command project: React + Redux Toolkit + Typescript <br>
 https://aleksandr-86.github.io/canvas-bomberman/game/ <br>
 Class components as React/HBS + Websockets + Typescript<br>
 https://cute-crostata-7f802d.netlify.app/ <br>
-React Testing Library<br>
-https://github.com/kan88/react-testing-library <br>
-Express + Mongo DB<br>
-https://github.com/kan88/deploy-mongo-express <br>
 Sandboxes React + Redux Toolkit<br>
 https://axios-types.vercel.app/ <br>
 https://gallery-rtk.vercel.app/ <br>
 https://react-hooks-taupe-seven.vercel.app/ <br>
+React Testing Library<br>
+https://github.com/kan88/react-testing-library <br>
+Express + Mongo DB<br>
+https://github.com/kan88/deploy-mongo-express <br>
 JS + SCSS<br>
 https://mishka-kan88.vercel.app/ <br>
 https://2015167-sedona-33.vercel.app/ <br>
