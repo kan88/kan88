@@ -1,14 +1,11 @@
 ### Hi there 👋
-I am Evgeny from Moscow <br>
-I work as a fullstack developer
 
-Some of my projects <br>
 React + Redux Toolkit <br>
 https://deploy-react-pizza.vercel.app/
 https://todo-eight-inky.vercel.app/ <br><br>
 Command project: React + Redux Toolkit + Typescript <br>
 https://aleksandr-86.github.io/canvas-bomberman/game/ <br><br>
-HBS + Websockets
+HBS + Websockets<br>
 https://cute-crostata-7f802d.netlify.app/ <br><br>
 JS + SCSS<br>
 https://2015167-sedona-33.vercel.app/ <br>
