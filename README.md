@@ -8,6 +8,7 @@ https://aleksandr-86.github.io/canvas-bomberman/game/ <br><br>
 Class block as React/HBS + Websockets + 1/2Typescript<br>
 https://cute-crostata-7f802d.netlify.app/ <br><br>
 JS + SCSS<br>
+https://mishka-kan88.vercel.app/ <br>
 https://2015167-sedona-33.vercel.app/ <br>
 https://kan88.github.io/skyeng/ <br>
 https://vercel-woodyandcash.vercel.app/ <br>
@@ -18,6 +19,8 @@ Sandboxes React + Redux Toolkit<br>
 https://axios-types.vercel.app/ <br>
 https://gallery-rtk.vercel.app/ <br>
 https://react-hooks-taupe-seven.vercel.app/ <br>
+React Testing Library<br>
+https://github.com/kan88/react-testing-library <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kan88&layout=compact)](https://github.com/kan88)
 <br>
