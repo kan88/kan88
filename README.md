@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 React + Redux Toolkit <br>
-https://deploy-react-pizza.vercel.app/
+https://deploy-react-pizza.vercel.app/<br>
 https://todo-eight-inky.vercel.app/ <br><br>
 Command project: React + Redux Toolkit + Typescript <br>
 https://aleksandr-86.github.io/canvas-bomberman/game/ <br><br>
