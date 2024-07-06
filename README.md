@@ -28,19 +28,5 @@ https://deploy-pizza.vercel.app/ <br>
 https://vercel-reutov-9a12-g2itxkdux-kan88.vercel.app/ <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kan88&layout=compact)](https://github.com/kan88)
-
-
-
-My actual contacts <br>
-<a href="https://t.me/kan_1988" rel="nofollow">
-  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-</a>
-<a href="mailto:evgenijkan1988@gmail.com">
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</a> <br> <br>
-
-<br>
-
  ![Profile View Counter](https://komarev.com/ghpvc/?username=kan88)
 
